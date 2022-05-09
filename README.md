@@ -1,6 +1,3 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-
 # Ödev 1
 ## GitHub'ta Repo İşlemleri
 Şu ana kadar bir sürü konu gördük ve birçok proje üzerinde çalıştık. Peki bu projeleri nasıl takip edeceğiz, nasıl derli toplu şekilde tutacağız? İşte burada GIT yardımımıza koşuyor. Bu bölümde öğrendiğiniz gibi GIT'in birçok avantajı var. Ve öğrendiklerinizi pekiştirmek için çok güzel bir ödevimiz var.
@@ -10,14 +7,14 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 - Description kısmına "Kodluyoruz Eğitimi kapsamında açtığım ilk repo" yazın.
 - "Add a README file" seçeneğini seçin.
 - "Choose a license" seçeneğini seçip "MIT License" seçeneğini seçin. Lisanslar ile alakalı detaylı bilgi için [Choose a License](https://choosealicense.com/) sitesini ziyaret edebilirsiniz.
-![GitHub]()
+![GitHub](https://raw.githubusercontent.com/daghangunhan/kodluyoruzilkrepo/main/visuals/github.png)
 
 Evet ilk repomuzu oluşturduk. Bundan sonraki adımda oluşturduğumuz repoyu bilgisayarımıza klonlamak olacak.
 
-- Repoyu açıp Code yazan yeşil butona tıklayın ve oradaki bağlantı ile bilgisayarınıza klonlayın. GIT komutları için GitHub - GIT Cheat Sheet'i kullanabilirsiniz.
+- Repoyu açıp Code yazan yeşil butona tıklayın ve oradaki bağlantı ile bilgisayarınıza klonlayın. GIT komutları için GitHub - [GIT Cheat Sheet](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://education.github.com/git-cheat-sheet-education.pdf)'i kullanabilirsiniz.
 - Repoyu bilgisayarımıza aldıktan sonra içine README.md adında bir Markdown dosya oluşturun.
 - Markdown içeriği aşağıdaki gibi olacak şekilde düzenleyin. Markdown için önceki konumuza bakabilirsiniz.
-![MarkDown]()
+![MarkDown](https://raw.githubusercontent.com/daghangunhan/kodluyoruzilkrepo/main/visuals/markdown.png)
 
 Detaylı bakmak için [Örnek Readme Dosyasını](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/ornekreadme.md) inceleyebilirsiniz.
 
